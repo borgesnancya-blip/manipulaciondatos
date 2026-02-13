@@ -7,7 +7,7 @@ Se aplicó un flujo de trabajo integral para transformar datos crudos en informa
 
 Exploración: Diagnóstico con info(), describe() y control de volumen con head().
 
-Limpieza (Data Cleaning): * Tratamiento de nulos con fillna().
+Limpieza (Data Cleaning): Tratamiento de nulos con fillna().
 
 Eliminación de duplicados y normalización de textos con str.strip().
 
